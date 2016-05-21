@@ -19,6 +19,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [Introduction To NoSQL - Martin Fowler](https://youtu.be/qI_g07C_Q5I) (54:52) - Great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
 - [NoSQL Distilled](http://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
+- [Seven Databases in Song](https://youtu.be/jyx8iP5tfCI) (1:43) - Fun song about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 
 
 ## Data Structures
