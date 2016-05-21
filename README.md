@@ -11,7 +11,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [Overview of NoSQL](#overview-of-nosql)
 - [Data Structures](#data-structures)
-- [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-cap-brewer-s-theorem)
+- [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-capbrewers-theorem)
 - [License](#license)
 
 
