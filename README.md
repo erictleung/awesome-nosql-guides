@@ -11,6 +11,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [Overview of NoSQL](#overview-of-nosql)
 - [Data Structures](#data-structures)
+- [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-cap-brewer-s-theorem)
 - [License](#license)
 
 
@@ -23,6 +24,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Data Structures
 
 - [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices of structuring your data if your database uses JSON. [Here's](https://www.firebase.com/docs/web/guide/structuring-data.html) an older version of this guide.
+
+
+## Trade-Offs in CAP/Brewer's Theorem
+
+- [Visual Guide to NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems) - Visual display of trade-offs in the CAP theorem among different NoSQL databases.
 
 
 ## License
