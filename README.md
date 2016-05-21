@@ -10,6 +10,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Table of Contents
 
 - [General NoSQL](#general-nosql)
+- [Data Structures](#data-structures)
 - [License](#license)
 
 
@@ -17,6 +18,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [Introduction to NoSQL - Martin Fowler](https://youtu.be/qI_g07C_Q5I) (54:52) - Great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
 - [NoSQL Distilled](http://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
+
+
+## Data Structures
+
+- [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices of structuring your data if your database uses JSON. [Here's](https://www.firebase.com/docs/web/guide/structuring-data.html) an older version of this guide.
 
 
 ## License
