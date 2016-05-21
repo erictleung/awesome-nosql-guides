@@ -4,13 +4,20 @@
 
 Curated list of resources and links *about* NoSQL databases.
 
-For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), or [here](https://github.com/kahun/awesome-sysadmin#nosql)
+For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
+
+
+## Table of Contents
+
+- [General NoSQL](#general-nosql)
+- [License](#license)
 
 
 ## General NoSQL
 
 - [Introduction to NoSQL - Martin Fowler](https://youtu.be/qI_g07C_Q5I) (54:52) - Great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
 - [NoSQL Distilled](http://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
+
 
 ## License
 
