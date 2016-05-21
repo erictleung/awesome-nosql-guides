@@ -1,6 +1,8 @@
 # Awesome NoSQL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of resources and links about NoSQL databases
+> "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases." — [Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
+
+Curated list of resources and links *about* NoSQL databases.
 
 ## General NoSQL
 
