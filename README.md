@@ -12,6 +12,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Overview of NoSQL](#overview-of-nosql)
 - [Data Structures](#data-structures)
 - [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-capbrewers-theorem)
+- [Graph Databases](#graph-databases)
 - [License](#license)
 
 
@@ -30,6 +31,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Trade-Offs in CAP/Brewer's Theorem
 
 - [Visual Guide to NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems) - Visual display of trade-offs in the CAP theorem among different NoSQL databases.
+
+
+## Graph Databases
+
+- [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
 
 
 ## License
