@@ -36,6 +36,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
+- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) - Learn how graph databases were key to explore who were the main names connected to companies in tax havens, including 140 politicians in more than 50 countries.
 
 
 ## License
