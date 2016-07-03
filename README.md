@@ -27,6 +27,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices of structuring your data if your database uses JSON. [Here's](https://www.firebase.com/docs/web/guide/structuring-data.html) an older version of this guide.
 - [NoSQL Data Modeling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - This articles provides a short comparison of NoSQL system families from the data modeling point of view and digests several common modeling techniques.
+- [Data Modeling Introduction](https://docs.mongodb.com/manual/core/data-modeling-introduction/) - Data modeling discussion specific to MongoDB. However, concepts may carriy over to other document NoSQL databases.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem
