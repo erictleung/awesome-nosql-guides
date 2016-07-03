@@ -10,8 +10,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 ## Table of Contents
 
 - [Overview of NoSQL](#overview-of-nosql)
-- [Data Structures](#data-structures)
-- [Data Modeling](#data-modeling)
+- [Data Structures and Modeling](#data-structures-and-modeling)
 - [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-capbrewers-theorem)
 - [Graph Databases](#graph-databases)
 - [License](#license)
@@ -24,13 +23,9 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Seven Databases in Song](https://youtu.be/jyx8iP5tfCI) (1:43) - Fun song about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 
 
-## Data Structures
+## Data Structures and Modeling
 
 - [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices of structuring your data if your database uses JSON. [Here's](https://www.firebase.com/docs/web/guide/structuring-data.html) an older version of this guide.
-
-
-## Data Modeling
-
 - [NoSQL Data Modeling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - This articles provides a short comparison of NoSQL system families from the data modeling point of view and digests several common modeling techniques.
 
 
