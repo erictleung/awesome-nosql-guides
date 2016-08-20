@@ -23,6 +23,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Seven Databases in Song](https://youtu.be/jyx8iP5tfCI) (1:43) - Fun song about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 - [NoSQL Databases: a Survey and Decision Guidance](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.nhzop4d23) - "This NoSQL Toolbox allows us to derive a simple decision tree to help practitioners and researchers filter potential system candidates based on central application requirements."
 - [Data Management in the Cloud: Limitations and Opportunities](http://www.cs.yale.edu/homes/dna/papers/abadi-cloud-ieee09.pdf) - Discusses limitations and opportunities of data management and data analysis in the cloud.
+- [The Five Stages of NoSQL](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) - Stages of going through picking and using a NoSQL database mirroring the five stages of grief.
 
 
 ## Data Structures and Modeling
