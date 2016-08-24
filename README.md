@@ -39,6 +39,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Visual Guide to NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems) - Visual display of trade-offs in the CAP theorem among different NoSQL databases.
 
 
+## Crowd-Sourced Information
+
+- [/r/nosql](https://www.reddit.com/r/nosql) - Reddit page on NoSQL on general questions and discussions people may have about NoSQL databases.
+
+
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
