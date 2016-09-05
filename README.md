@@ -2,7 +2,7 @@
 
 > "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases." — [Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 
-Curated list of resources and links *about* NoSQL databases.
+Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
 
 For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
 
