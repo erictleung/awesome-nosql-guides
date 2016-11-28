@@ -22,10 +22,11 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [NoSQL Distilled](http://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
 - [Seven Databases in Song](https://youtu.be/jyx8iP5tfCI) (1:43) - Fun song about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 - [NoSQL Databases: a Survey and Decision Guidance](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.nhzop4d23) - "This NoSQL Toolbox allows us to derive a simple decision tree to help practitioners and researchers filter potential system candidates based on central application requirements."
-- [Data Management in the Cloud: Limitations and Opportunities](http://www.cs.yale.edu/homes/dna/papers/abadi-cloud-ieee09.pdf) - Discusses limitations and opportunities of data management and data analysis in the cloud.
+- [Data Management in the Cloud: Limitations and Opportunities](http://www.cs.yale.edu/homes/dna/papers/abadi-cloud-ieee09.pdf) (PDF) - Discusses limitations and opportunities of data management and data analysis in the cloud.
 - [The Five Stages of NoSQL](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) - Stages of going through picking and using a NoSQL database mirroring the five stages of grief.
 - [10 NoSQL Misconceptions](http://www.dummies.com/how-to/content/10-nosql-misconceptions.html) - Some misconceptions about NoSQL databases relating to topics such as what they are, ACID-compliance, and security.
 - [10 Reasons Developers Love NoSQL](http://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - A list of ten arguments for why developers like to use NoSQL databases.
+- [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems](https://resources.sei.cmu.edu/asset_files/WhitePaper/2014_019_001_90915.pdf) (PDF) - Paper to discuss software engineering concerns when dealing with big data systems in terms of distribution, data, and deployment. Also accessible [here](https://doi.org/10.1109/MS.2014.51).
 
 
 ## Data Structures and Modeling
