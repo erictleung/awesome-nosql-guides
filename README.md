@@ -12,6 +12,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Overview of NoSQL](#overview-of-nosql)
 - [Data Structures and Modeling](#data-structures-and-modeling)
 - [Trade-Offs in CAP/Brewer's Theorem](#trade-offs-in-capbrewers-theorem)
+- [Crowd-Sourced Information](#crowd-sourced-information)
 - [Graph Databases](#graph-databases)
 - [License](#license)
 
