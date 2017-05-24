@@ -4,7 +4,7 @@
 
 Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
 
-For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
+For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
 
 
 ## Table of Contents
