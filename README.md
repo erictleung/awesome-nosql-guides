@@ -28,6 +28,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [10 NoSQL Misconceptions](http://www.dummies.com/how-to/content/10-nosql-misconceptions.html) - Some misconceptions about NoSQL databases relating to topics such as what they are, ACID-compliance, and security.
 - [10 Reasons Developers Love NoSQL](http://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - A list of ten arguments for why developers like to use NoSQL databases.
 - [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems](https://resources.sei.cmu.edu/asset_files/WhitePaper/2014_019_001_90915.pdf) (PDF) - Paper to discuss software engineering concerns when dealing with big data systems in terms of distribution, data, and deployment. Also accessible [here](https://doi.org/10.1109/MS.2014.51).
+- [Use cases for NoSQL](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) - Discussion on Stack Overflow on best use cases for using NoSQL databases over traditional SQL databases.
 
 
 ## Data Structures and Modeling
