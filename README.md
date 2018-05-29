@@ -56,6 +56,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) - Learn how graph databases were key to explore who were the main names connected to companies in tax havens, including 140 politicians in more than 50 countries.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - Discusses the basics of modeling your data and which approach you should take.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - Directly related to Neo4j, but possibly applicable to any graph database.
+- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com/) - Brief introduction to graph data modeling and is an introduction to the book, ["Graph Data Modeling for NoSQL and SQL"](https://technicspub.com/graph-data-modeling/) by Thomas Frisendal.
 
 
 ## License
