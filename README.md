@@ -4,7 +4,7 @@
 
 Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
 
-For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org/), [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
+For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/awesome#databases), [here](http://nosql-database.org), [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or [here](https://github.com/kahun/awesome-sysadmin#nosql).
 
 
 ## Contents
@@ -57,10 +57,10 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) (32:02) - Learn how graph databases were key to explore who were the main names connected to companies in tax havens, including 140 politicians in more than 50 countries.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - Discusses the basics of modeling your data and which approach you should take.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - Directly related to Neo4j, but possibly applicable to any graph database.
-- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com/) - Brief introduction to graph data modeling and is an introduction to the book, ["Graph Data Modeling for NoSQL and SQL"](https://technicspub.com/graph-data-modeling/) by Thomas Frisendal.
+- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - Brief introduction to graph data modeling and is an introduction to the book, ["Graph Data Modeling for NoSQL and SQL"](https://technicspub.com/graph-data-modeling/) by Thomas Frisendal.
 
 
-# Criticisms and Debates
+## Criticisms and Debates
 
 - [Addressing the NoSQL Criticism](http://bradley-holt.com/2011/07/addressing-the-nosql-criticism/) (2011) - Argues against nine criticisms to NoSQL databases as they apply to CouchDB, but may apply to others as well.
 - [Thank You for Your Help NoSQL, but We Got It from Here](http://blog.memsql.com/nosql/) (2018) - Argument that NoSQL databases have pushed the evolution of databases given the problem of scaling, but now NewSQL has addressed those concerns (from the perspective of MemSQL).
