@@ -15,7 +15,6 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Crowd-Sourced Information](#crowd-sourced-information)
 - [Graph Databases](#graph-databases)
 - [Criticisms and Debates](#criticisms-and-debates)
-- [License](#license)
 
 
 ## Overview of NoSQL
