@@ -38,6 +38,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 - [Data Models Will Be Beautiful Again](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) (2016) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) - Solution for managing both NoSQL and relational databases using the Unified Data Modeling technique.
+- [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - Patterns for querying across multiple paradigms in the same database.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem
