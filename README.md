@@ -23,7 +23,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 - [Introduction To NoSQL - Martin Fowler (54:52)](https://youtu.be/qI_g07C_Q5I) - Talk given at GOTO 2012 as a great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
 - [NoSQL Distilled](http://martinfowler.com/books/nosql.html) - Very digestable and affordable book describing the different NoSQL databases and help you make the decision on whether using a NoSQL database is appropriate for your project.
 - [Seven Databases in Song (1:43)](https://youtu.be/jyx8iP5tfCI) - Fun song from 2012 about seven (six are NoSQL) databases with a very condensed overview of how they each work.
-- [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.nhzop4d23) - "This NoSQL Toolbox allows us to derive a simple decision tree to help practitioners and researchers filter potential system candidates based on central application requirements."
+- [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.nhzop4d23) - "This NoSQL Toolbox allows us to derive a simple decision tree to help practitioners and researchers filter potential system candidates based on central application requirements".
 - [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.yale.edu/homes/dna/papers/abadi-cloud-ieee09.pdf) - Abadi (2009) discusses limitations and opportunities of data management and data analysis in the cloud.
 - [10 NoSQL Misconceptions](http://www.dummies.com/how-to/content/10-nosql-misconceptions.html) - Some misconceptions about NoSQL databases relating to topics such as what they are, ACID-compliance, and security.
 - [10 Reasons Developers Love NoSQL](http://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - A list of ten arguments for why developers like to use NoSQL databases.
@@ -52,7 +52,7 @@ For actual NoSQL databases, you can go [here](https://github.com/sindresorhus/aw
 
 - [/r/nosql](https://www.reddit.com/r/nosql) - Reddit page on NoSQL on general questions and discussions people may have about NoSQL databases.
 - [[nosql] tag on Stack Overflow](https://stackoverflow.com/tags/nosql/info)
-- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) - "In your opinion, which papers and books are mandatory to really understand NoSQL subject?"
+- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) - "In your opinion, which papers and books are mandatory to really understand NoSQL subject?".
 
 
 ## Graph Databases
