@@ -7,6 +7,7 @@ Curated list of resources and links about *using* NoSQL databases and things to 
 For actual NoSQL databases, you can go
 [here](https://github.com/sindresorhus/awesome#databases),
 [here](https://hostingdata.co.uk/nosql-database/),
+[here](https://db-engines.com/en/ranking),
 [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or
 [here](https://github.com/kahun/awesome-sysadmin#nosql).
 
