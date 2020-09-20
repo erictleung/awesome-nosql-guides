@@ -10,4 +10,4 @@ matrix:
       before_script: npm install awesome-lint
 
 notifications:
-  email: false      
+  email: false
