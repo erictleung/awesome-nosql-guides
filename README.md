@@ -65,7 +65,7 @@ For actual NoSQL databases, you can go
 
 - [/r/nosql](https://www.reddit.com/r/nosql) - Reddit page on NoSQL on general questions and discussions people may have about NoSQL databases.
 - [[nosql] tag on Stack Overflow](https://stackoverflow.com/tags/nosql/info)
-- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) - "In your opinion, which papers and books are mandatory to really understand NoSQL subject?".
+- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) - "In your opinion, which papers and books are mandatory to really understand NoSQL subject?"
 - [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/q/11707879/6873133) - Common terms talked about in the database world and here are answers from others.
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - Wikipedia entry on all things NoSQL databases.
 
