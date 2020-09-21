@@ -1,8 +1,10 @@
 # Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases." — Wikipedia
+> Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
 
-Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
+A basic definition of NoSQL databases can be found on Wikipedia as:
+
+> "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases."
 
 For actual NoSQL databases, you can go
 [here](https://github.com/sindresorhus/awesome#databases),
