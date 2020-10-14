@@ -42,6 +42,7 @@ For actual NoSQL databases, you can go
 - [NoSQL Data Architecture & Data Governance: Everything You Need to Know (2018)](https://www.dataversity.net/nosql-data-architecture-data-governance-everything-need-know/) - Overview of different NoSQL database architectures with diagrams.
 - [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) - General overview and examples of NoSQL database schema types, while covering CAP theorem tradeoffs.
 - [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37) - Good overview of databases in general and how NoSQL database types differ and can be useful.
+- [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) - A chapter written by Adam Marcus from "The Architecture of Open Source Applications" book, this chapter is geared more towards systems architects needing to learn more in-depth understanding of how these systems are built.
 
 
 ## Data Structures and Modeling
