@@ -48,7 +48,7 @@ For actual NoSQL databases, you can go
 ## Data Structures and Modeling
 
 - [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices (as of 2018) of structuring your data if your database uses JSON.
-- [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - This articles provides a short comparison of NoSQL system families from the data modeling point of view and digests several common modeling techniques.
+- [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - This article provides a short comparison of NoSQL system families from the data modeling point of view and digests several common modeling techniques.
 - [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 - [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) - Solution for managing both NoSQL and relational databases using the Unified Data Modeling technique.
