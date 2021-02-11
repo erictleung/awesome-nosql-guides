@@ -24,17 +24,11 @@ jobs:
           awesome_bot --allow-ssl --allow 302,429,307 --allow-dupe -f README.md
 
   lint_syntax:
-    name: Lint README
+    name: Awesome Lint README
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Source Files
         uses: actions/checkout@v2
-
-      - name: Setup Ruby 2.6
-        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6
-
-      - uses: max/awesome-lint@v2.0.0
-        with:
-          filename: README.md
+          fetch-depth: 0
+      - run: npx awesome-lint
