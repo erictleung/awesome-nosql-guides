@@ -21,7 +21,7 @@ jobs:
       - name: Run checks on links
         run: |
           gem install awesome_bot
-          awesome_bot --allow-ssl --allow 302,429 --allow-dupe -f README.md
+          awesome_bot --allow-ssl --allow 302,429,307 --allow-dupe -f README.md
 
   lint_syntax:
     name: Lint README
