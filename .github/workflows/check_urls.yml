@@ -1,24 +1,39 @@
+# Name of your workflow that GitHub displays
 name: Check Resources
 
+# Name of GitHub event that activates the workflow (required)
 on: [push,pull_request]
 
+# List of jobs to be run for workflow
 jobs:
-  validate:
+  validate_links:
+    name: Validate links
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source files
+        uses: actions/checkout@v2
 
+      - name: Setup Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: Run checks on links
+        run: |
+          gem install awesome_bot
+          awesome_bot --allow-ssl --allow 302,429 --allow-dupe -f README.md
+
+  lint_syntax:
+    name: Lint README
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Source Files
         uses: actions/checkout@v2
 
       - name: Setup Ruby 2.6
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6.x
-
-      - name: Run checks
-        run: |
-          gem install awesome_bot
-          awesome_bot --allow-ssl --allow 302,429 --allow-dupe -f README.md
 
       - uses: max/awesome-lint@v2.0.0
         with:
