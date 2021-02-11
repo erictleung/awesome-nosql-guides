@@ -1,0 +1,25 @@
+name: Check Resources
+
+on: [push,pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Source Files
+        uses: actions/checkout@v2
+
+      - name: Setup Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: Run checks
+        run: |
+          gem install awesome_bot
+          awesome_bot --allow-ssl --allow 302,429 --allow-dupe -f README.md
+
+      - uses: max/awesome-lint@v2.0.0
+        with:
+          filename: README.md
