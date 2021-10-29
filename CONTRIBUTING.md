@@ -18,6 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
 - Use the following format: `[List Name](link)`
+- Try to write up a brief summary of why a particular link is of interest.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
